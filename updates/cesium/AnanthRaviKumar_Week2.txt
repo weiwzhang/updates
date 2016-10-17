@@ -1,0 +1,9 @@
+Past Week:
+    > No progress made due to interviews and midterms.
+
+Next week:
+    > set up Cesium Web on Ubuntu for Windows
+    > Finish writing up readme for cesium (as listed in tasks)
+
+Issues:
+    > None
