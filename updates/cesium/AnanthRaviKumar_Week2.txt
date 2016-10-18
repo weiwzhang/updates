@@ -3,7 +3,7 @@ Past Week:
 
 Next week:
     > set up Cesium Web on Ubuntu for Windows
-    > Finish writing up readme for cesium (as listed in tasks)
+    > Improve test coverage of cesium as per issue #93
 
 Issues:
     > None
