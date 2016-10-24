@@ -5,6 +5,7 @@ Past Week:
 Next week:
     > Continue improving test coverage, bump up at least one file to 100% coverage.
     > Read through the Cesium code in depth, figure out how the math behind it works.
+    > Work with Alejandro to work on issue #138 (Model selection changes in sklearn)
 
 Issues:
     > Code coverage can be misleading; some of the util files in particular have only ~70% coverage, but do not
