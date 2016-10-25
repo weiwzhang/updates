@@ -1,6 +1,8 @@
 # Past week
 
-- Investigate different naming convention for the new Vega default color cycle, implement the Vega10 dict and implementation in colors.py and _color_data.py, make pull request for this ticket
+- Investigate different naming convention for the new Vega default color cycle
+- Implement the Vega10 dict and implementation in colors.py and _color_data.py
+- Make pull request for this ticket
 
 
 # Next week
