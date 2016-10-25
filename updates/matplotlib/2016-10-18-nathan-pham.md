@@ -12,5 +12,5 @@
 
 
 # Issues
-s
+
 - Not fully understand Matplotlib classes and their usages in order to write docstrings
