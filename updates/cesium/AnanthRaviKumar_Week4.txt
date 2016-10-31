@@ -1,0 +1,9 @@
+Past Week:
+    > added in more tests to test_cadence_features and test_transform. Cadence features is now at 92% coverage, and transform is at 83%.
+
+Next Week:
+    > Talk to Stefan about further tasks to be done for Cesium.
+    > Read through and understand codebase, pitch possible areas that could be expanded or improved upon. 
+
+Challenges:
+    > Code base is already very-well covered by tests, and for the most part, untested lines seem to be declarations or constructors. Rather unclear on how to progress.
