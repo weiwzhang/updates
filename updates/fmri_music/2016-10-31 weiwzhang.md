@@ -10,8 +10,8 @@
 
 # Issues
 - compiling error (syntax error on "utilities.py")
--  fixed thanks to Stefan! Apparently there's a syntax error on utilities.py in pretty midi package. Will stop using that package for now.
+  -  fixed thanks to Stefan! Apparently there's a syntax error on utilities.py in pretty midi package. Will stop using that package for now.
 - docstrings aren't read in by APIDocWriter
--  attempts: have tried editing __init__.py (added __all__ array with all documentated function signatures), tried using setup.py, tried to use the cesium repo to generate documentation
--  result: still can't read in the docstrings (Pearl also tested similarly)
--  reflections: I do think that we've imported all functions and also added them at the top of init.py files in respective directories. So I'm genuinely confused about what else we might have missed..
+  -  attempts: have tried editing __init__.py (added __all__ array with all documentated function signatures), tried using setup.py, tried to use the cesium repo to generate documentation
+  -  result: still can't read in the docstrings (Pearl also tested similarly)
+  -  reflections: I do think that we've imported all functions and also added them at the top of init.py files in respective directories. So I'm genuinely confused about what else we might have missed..
