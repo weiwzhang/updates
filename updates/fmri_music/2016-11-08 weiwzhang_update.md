@@ -1,5 +1,5 @@
 # Past Week
-- finished debugging API doc writer and successsfully generated all sphinx documentation for files in music_feats/feaures, utils folders.(see my Github https://github.com/weiwzhang/music-features/tree/master/music_feats/features for more info)
+- finished debugging API doc writer and successsfully generated all sphinx documentation for files in music_feats/feaures, utils folders.(see my Github https://github.com/weiwzhang/music-features/tree/master/ for more info)
 
 # Next Week
 - start working on Travis-CI testing files
