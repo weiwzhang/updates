@@ -1,0 +1,10 @@
+Past week:
+    - No significant progress made due to Midterms and job interviews. Recruitment season and midterm season are both over now, so this shouldn't impact progress anymore moving forward.
+
+Next week: 
+    - Finishing up addressing comments on currently open pull requests (should be done in the next hour or so). 
+
+    - Additionally, I wanted to start working on issue #154 (Distance-based classification methods), but was wondering if this was a priority. 
+
+Challenges:
+    - None.

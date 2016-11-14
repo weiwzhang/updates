@@ -1,0 +1,9 @@
+Past Week:
+    - Read and understood background behind dynamic time warping.
+    - Read through the FastDTW implementation and paper, also read through the R dtw repo's companion paper and repository.
+
+Next Week:
+    - Discuss FastDTW and R repository's functionality with Stefan, and see where to go from there.
+
+Challenges:
+    -  Having trouble with the codecoverage pull request; coverage docs aren't very clear, and I'm not sure if coverage needs to be pip installed inside the travis_script.sh bash script. Overall, not sure how travis, nosetests and coverage all fit together.
