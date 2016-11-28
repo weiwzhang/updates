@@ -1,0 +1,11 @@
+Past Week:
+    - almost finished implementation of DTW - DAG method 
+    - finished implementing test cases for 4/6 methods.
+
+Next week:
+    - finish up DTW-DAG implementation.
+    - time series clustering with Cesium
+    - think of ways to make the DTW alg faster.
+
+Challenges:
+    - Having difficulty figuring out a way to systematically label nodes in networkx formulation. Using the value of a cell as the name of a node is not doable since networkx doesn't allow for multiple nodes with the same label.
