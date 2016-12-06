@@ -11,6 +11,3 @@ https://github.com/matplotlib/matplotlib/pull/7499
 https://github.com/matplotlib/matplotlib/pull/7335
 
 https://github.com/matplotlib/matplotlib/pull/7461
-
-
-
