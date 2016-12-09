@@ -13,5 +13,4 @@
  - Add spectrogram utility to utils.py, now using np.fft.rfft and creating a threshold at 1% of the maximum frequency's amiplitude.
 #Future
 - Continue writing tests
- -Spectral spread, spectral flatness, fluctuation entropy, fluctuation centroid, key clarity, and pulse clarity are the next features to review the algorithms and rewrite the tests for.
-
+ - Spectral spread, spectral flatness, fluctuation entropy, fluctuation centroid, key clarity, and pulse clarity are the next features to review the algorithms and rewrite the tests for.
