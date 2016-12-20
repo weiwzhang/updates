@@ -1,8 +1,0 @@
-Past week: 
-> I read some of the redux.js documentation and worked on the walkthroughs. I have them showing on the screen and moving, but I am working with Jie to refine some of the code
-
-Next week:
-> I will continue working on the React walkthoughs. I need to change the color of the background and text that is displayed on each walkthrough step. I think we are getting close!
-
-Issues:
-> I am having trouble changing background and descriptions for each step of the walkthrough. I feel like the changes I make in main.jsx are not reflecting when I run make.

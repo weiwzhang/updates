@@ -1,9 +1,0 @@
-Past Week:
-    > No progress made due to interviews and midterms.
-
-Next week:
-    > set up Cesium Web on Ubuntu for Windows
-    > Improve test coverage of cesium as per issue #93
-
-Issues:
-    > None

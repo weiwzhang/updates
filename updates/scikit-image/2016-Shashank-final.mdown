@@ -1,7 +1,0 @@
-# Merged PRS
-PR for adding images to every method in a more intuitive way coming out over break. Should be fairly substantial.
-I spent a good deal of my time working on doctr but the ultimate conclusion for that was to shelve it so there isn't really a PR there.
-
-# Code reviews
-- https://github.com/scikit-image/scikit-image/issues/2317
-- https://github.com/scikit-image/scikit-image/pull/2191
