@@ -7,3 +7,6 @@
 ### Completed by Not yet Merged in
 * https://github.com/matplotlib/matplotlib/issues/7300
 * https://github.com/matplotlib/matplotlib/issues/7199
+
+### Reviewed PRs
+* https://github.com/matplotlib/matplotlib/pull/7343
