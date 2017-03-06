@@ -26,3 +26,4 @@
 - [Claudia Tse](updates/scikit-image/Claudia Tse.md)
 - [Shashank Bhargava](updates/scikit-image/Shashank Bhargava.md)
 - [Yue Zheng](updates/scikit-image/Yue Zheng.md)
+- [Nick Zoghb](updates/scikit-image/Nick Zoghb.md)
