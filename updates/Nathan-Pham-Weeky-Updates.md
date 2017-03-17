@@ -12,3 +12,8 @@
 - **Got stuck on:** How to design a React component using JoyRide and how to render this new component into our existing app.
 - **Coming week:** Attempt to design a simple JoyRide component. 
 
+## 03-10-2017
+
+- **Past week:** Built a [walkthrough prototype] (https://github.com/trpham/react-walk-prototype) with React Joyride and React tabs.
+- **Got stuck on:** The walk dismissed after switching tabs. 
+- **Coming week:** Fix switching tab problem and improve the prototype.
