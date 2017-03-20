@@ -9,6 +9,12 @@
 
 ## 03-03-2017
 
-- **Past week:** Finished an initial implementation of RBF-FD ([commit](https://github.com/evanlimanto/scipy/commit/a88fc529e27e58b350607034325d200c4ee1522a))
+- **Past week:** Finished an initial implementation of RBF interpolation with polynomials ([commit](https://github.com/evanlimanto/scipy/commit/a88fc529e27e58b350607034325d200c4ee1522a))
 - **Got stuck on:** N/A
 - **Coming week:** Work on tests and a better implementation
+
+## 03-10-2017
+
+- **Past week:** Submitted a PR for RBF interpolation with polynomials ([#7157](https://github.com/scipy/scipy/pull/7157))
+- **Got stuck on:** N/A
+- **Coming week:** Read the "Topological Structural Analysis of Digitized Binary Images by Border Following" paper.
