@@ -17,3 +17,10 @@ Created a prototype of a walkthrough with tabs https://github.com/MichaelTamaki/
 - **Coming week:** I have a busy week ahead of midterms and being out of town over the weekend,
 so I can't get much done. Once I am free, I will continue working out the issues with the
 walkthrough. 
+
+## 03-22-2017
+As noted last week, I was busy with midterms and did not get much done. I will continue to integrate
+the walkthrough into the cesium website. Thus, I need to figure out:  
+- ExpandBox  
+- Redux forms
+- Automatically provide example data for every project.
