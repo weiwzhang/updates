@@ -17,3 +17,9 @@
 - **Past week:** Worked with Stefan to optimize unsharp masking code. Remove almost all nested loops and tried reimplementing inversion of precision of gradient matrices.
 - **Got stuck on:** Calculating precision of gradient still takes a lot of time. Have trouble applying precision_of_gradient function efficiently on the entire auto-correlation matrix.
 - **Coming week:** Try to optimize unsharp masking more. Research ways to do efficient inversions on 2 by 2 matrices.
+
+## 03-24-2017
+
+- **Past week:** Cleaned up code a little and added condition to stop iteration. Used python profiling tool to analyze running time and efficiency of individual code blocks/helper functions within main function.
+- **Got stuck on:** Code is still not efficient enough, need to speed up local variance calculation
+- **Coming week:** Rewrite local variance calculation using scipy.LowLevelCallable. Continue profile and optimize code.
