@@ -23,3 +23,9 @@
 - **Past Week:** Fixed all the website issues except for the last two that I got stuck on. 
 - **Got Stuck on:** Still not sure how to fold up the subtopics in api and move the contents bar to the top.
 - **Coming Week:** Start fixing issues on github and focus more on translating the files from yxdragon.
+
+## 03-24-2017
+
+- **Past Week:** Fixed all the website issues. 
+- **Got Stuck on:** There might still be some small layout issues.
+- **Coming Week:** I'll be traveling during Spring Break but I'll keep on fixing the website if anything doesn't look good.
