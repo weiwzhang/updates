@@ -24,3 +24,8 @@ the walkthrough into the cesium website. Thus, I need to figure out:
 - ExpandBox  
 - Redux forms
 - Automatically provide example data for every project.
+
+## 04-03-2017
+- **Past week:** Worked a little on the actual cesium_web project to create a walkthrough. I think I've figured out most of the small details of selectors so far. Looked a little into providing example data to all projects.  
+- **Got stuck on:** I'm trying to figure out how the javascript files interact with the peewee backend so I can provide example data, but I'm having trouble figuring it all out.  
+- **Coming week:** Continue figuring out how to provide example data.
