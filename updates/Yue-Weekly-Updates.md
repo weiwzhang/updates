@@ -23,3 +23,8 @@
 - **Past week:** Cleaned up code a little and added condition to stop iteration. Used python profiling tool to analyze running time and efficiency of individual code blocks/helper functions within main function.
 - **Got stuck on:** Code is still not efficient enough, need to speed up local variance calculation
 - **Coming week:** Rewrite local variance calculation using scipy.LowLevelCallable. Continue profile and optimize code.
+
+## 04-07-2017
+- **Past week:** Rewrote local variance calculation using Cython and scipy.LowLevelCallable. Decreased the percentage of the runtime occupied from around 55%~60% to 20%~25%. Decreased total runtime for 120 iterations on a ~300x400 image from ~6s to ~3s.
+- **Got stuck on:** Used profiling after speeding up local variance calculations and found that calculating precision of gradiant now takes up the most time. Not sure how to optimize.
+- **Coming week:** Research ways to optimize precision of gradient.
