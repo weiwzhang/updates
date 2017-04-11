@@ -29,3 +29,8 @@ the walkthrough into the cesium website. Thus, I need to figure out:
 - **Past week:** Worked a little on the actual cesium_web project to create a walkthrough. I think I've figured out most of the small details of selectors so far. Looked a little into providing example data to all projects.  
 - **Got stuck on:** I'm trying to figure out how the javascript files interact with the peewee backend so I can provide example data, but I'm having trouble figuring it all out.  
 - **Coming week:** Continue figuring out how to provide example data.
+
+## 04-10-2017
+- **Past week:** Submitted a [PR](https://github.com/cesium-ml/cesium_web/pull/181) to provide an example dataset for new projects.  
+- **Got stuck on:** The example dataset provided gets an error when trying to create features.  
+- **Coming week:** Change PR so that an example dataset can be used via the dataset tab, also look into error as stated.  
