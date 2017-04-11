@@ -23,3 +23,9 @@
 - **Past week:** Making progress on integrate Walkthough component into Cesium app: including adding a ‘start a tour’ button, declare props and callback functions. The app run sucessfully and be able jump to to different 'visible' elements (steps) in the main page. https://github.com/trpham/cesium_web/blob/master/public/scripts/main.jsx
 - **Got stuck on:** The tabs only get opened after uploading some feed data, need to figure out how to mimic uploading data. 
 - **Coming week:** Improve transition from tabs to tabs, pack the walkthorugh code into a seperate component instead of putting it all in the main.js
+
+## 04-07-2017
+
+- **Past week:** Because the web interface requires clicking event to expand differnt tabs, I try to simulate the action by manually trigger click event on DOM elements within Walkthorugh callback function: https://github.com/trpham/cesium_web/blob/master/public/scripts/main.jsx
+- **Got stuck on:** Try different approaches but was unsucessful on how to call jQuery .click() event inside walkthrough callback function.
+- **Coming week:** Continue on fixing the click event to work. 
