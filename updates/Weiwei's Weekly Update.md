@@ -35,3 +35,15 @@
     - can reset tour
     - color: blue
     - 1st welcome page: a dropdown menu asking for consent to start the tour?
+ 
+## 04-03-2017
+- **Past week:** Learn React. Keep improving walkthrough demo. Fork and merge code into Nathan's cesium web version
+- **Got stuck on:** need to decide on styling for user permission box, connecting one tab to the other, etc.
+- **Coming week:** Focus on implementing a user permission box that asks user's consent to start/disable the walkthrough tutorial. 
+
+## 04-10-2017
+- **Past week:** Learn React. Implemented a prototype for user permission box using React-Modal. 
+- **Got stuck on:** how to disable beacon? what exactly to implement for "never again (for walkthorugh)" option? is the styling of Modal ok? 
+- **Coming week:** Improve Modal's styling (esp. make it footer and overlay-less). Figure out disabling beacons. 
+
+    
