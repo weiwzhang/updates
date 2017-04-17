@@ -45,5 +45,12 @@
 - **Past week:** Learn React. Implemented a prototype for user permission box using React-Modal. 
 - **Got stuck on:** how to disable beacon? what exactly to implement for "never again (for walkthorugh)" option? is the styling of Modal ok? 
 - **Coming week:** Improve Modal's styling (esp. make it footer and overlay-less). Figure out disabling beacons. 
+- **Notes:** the "never again" feature, need integration with user profile and preferences settings (wait till later)
+
+## 04-17-2017
+- **Past week:**  Figured a way to almost disable beacons, improved Modal's styling (e.g. making footer, color, size, etc. ); try integrating Modal features into main.jsx
+- **Got stuck on:** how to disable beacon? Modal window is not displaying when user first land on page (although in chrome React developer tool Modal is shown to be running)
+- **Coming week:** Improve Modal's styling (esp. overlay-less); integrate Modal functionalities into main.jsx
+
 
     
