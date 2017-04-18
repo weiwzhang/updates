@@ -29,3 +29,9 @@
 - **Past week:** Because the web interface requires clicking event to expand differnt tabs, I try to simulate the action by manually trigger click event on DOM elements within Walkthorugh callback function: https://github.com/trpham/cesium_web/blob/master/public/scripts/main.jsx
 - **Got stuck on:** Try different approaches but was unsucessful on how to call jQuery .click() event inside walkthrough callback function.
 - **Coming week:** Continue on fixing the click event to work. 
+
+## 04-14-2017
+
+- **Past week:** Be able to trigger click event on DOM elements within Walkthorugh callback function, https://github.com/trpham/cesium_web/blob/master/public/scripts/main.jsx
+- **Got stuck on:** The transition and click event handle is still laggy
+- **Coming week:** Try to handle the click handle smoothly and working on handle click events on react tabs represent Projects/Data/Features... 
