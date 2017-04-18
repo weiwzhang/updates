@@ -34,3 +34,8 @@ the walkthrough into the cesium website. Thus, I need to figure out:
 - **Past week:** Submitted a [PR](https://github.com/cesium-ml/cesium_web/pull/181) to provide an example dataset for new projects.  
 - **Got stuck on:** The example dataset provided gets an error when trying to create features.  
 - **Coming week:** Change PR so that an example dataset can be used via the dataset tab, also look into error as stated.  
+
+## 04-17-2017
+- **Past week:** Tried to create a new action that creates an example dataset.  
+- **Got stuck on:** I wasn't able to figure out how the javascript files interact with peewee; in general how to make a javascript function that triggers a peewee function that changes the model.  
+- **Coming week:** Understand the front-end/back-end connection.  
