@@ -33,3 +33,8 @@
 - **Past week:** Modified cython code and python code with the help of Stefan to further speed up local variance calculation. Rewrote precision of gradient calculation in cython to decrease runtime.
 - **Got stuck on:** Some matrix calculations are still a little slow.
 - **Coming week:** Clean up and rewrite entire code in cython.
+
+## 04-21-2017
+- **Past week:** Copied all the code from IPython file to Cython.
+- **Got stuck on:** Had some trouble with numpy array type definition in Cython. Didn't get much speed up because a lot of interatction with Python. 
+- **Coming week:** Clean up and refine Cython code. Prepare for pull request.
