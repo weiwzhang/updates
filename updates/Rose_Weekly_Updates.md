@@ -29,3 +29,9 @@
 - **Past Week:** Fixed all the website issues. 
 - **Got Stuck on:** There might still be some small layout issues.
 - **Coming Week:** I'll be traveling during Spring Break but I'll keep on fixing the website if anything doesn't look good.
+
+## 04-21-2017
+
+- **Past Week:** Further fixed the website's remaining problems.
+- **Got Stuck on:** Not sure how to update version dynamically. Figured out with Stephan's help.
+- **Coming Week:** Start fixing issues on Github. Spend more time on translating files from yxdragon.
