@@ -39,3 +39,8 @@ the walkthrough into the cesium website. Thus, I need to figure out:
 - **Past week:** Tried to create a new action that creates an example dataset.  
 - **Got stuck on:** I wasn't able to figure out how the javascript files interact with peewee; in general how to make a javascript function that triggers a peewee function that changes the model.  
 - **Coming week:** Understand the front-end/back-end connection.  
+
+## 04-24-2017
+- **Past week:** Created an action to fetch an example dataset.  
+- **Got stuck on:** I don't know how to handle new actions and creating a new URL.  
+- **Coming week:** Finish up the action.
