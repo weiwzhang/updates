@@ -46,4 +46,20 @@
 - **Got stuck on:** how to disable beacon? what exactly to implement for "never again (for walkthorugh)" option? is the styling of Modal ok? 
 - **Coming week:** Improve Modal's styling (esp. make it footer and overlay-less). Figure out disabling beacons. 
 
+## 04-17-2017
+- **Past week:** disabled beacons (also with help from Nathan), learn CSS and style Modal, try merging Modal into main.jsx
+- **Got stuck on:** what exactly to implement for "never again (for walkthorugh)" option? styling issues with CSS; talk with Nathan to confirm on details in the walkthrough (e.g. how project expanders are handled)
+- **Coming week:** Improve Modal's styling (esp. positioning), try to integrate Modal into main.jsx
+- **Note:** "never again" function needs to wait for Stefan's user profile code to be merged 
+
+## 04-24-2017
+- **Past week:** try integrating Modal into main.jsx, implemented and styled temporary buttons in footer to control walkthrough 
+- **Got stuck on:** why is Modal not rendered on screen? the tour has some problems, like skip and back buttons don't control the tour as we expect, overlay don't correspond with project expander
+- **Coming week:** prepare semester summary, continue experimenting with Modal, merge code with Nathan's
+
+## 04-31-2017
+- **Past week:** semester summary, continue to experiment with improving Modal styling on my own demo, finished updating with Stefan's code in cesium web repo
+- **Got stuck on:** wait for Nathan to finish updating his repo so I can submit pull request to his code, issues with merging code into main.jsx
+- **coming week (or summer):** merge Modal into main.jsx
+
     
